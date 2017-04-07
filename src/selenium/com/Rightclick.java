@@ -24,6 +24,8 @@ public class Rightclick {
 		driver.findElement(By.linkText("Apple")).click();
 		
 		//geeting error 
+//this is to test jenkins
+// this is to test jenkins for second.
 	}
 
 }
